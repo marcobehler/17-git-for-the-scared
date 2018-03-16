@@ -5,12 +5,8 @@ package com.marcobehler;
  */
 public class Kitten {
 
-    public void eat() {
-        System.out.println("i am eating!");
+    public void blah() {
+        System.out.println("blah!");
         System.out.println("change");
     }
-	
-	public void jump() {
-		System.out.println("i am jumping");
-	}
 }
