@@ -7,6 +7,10 @@ public class Kitten {
 
     public void blah() {
         System.out.println("blah!");
-        System.out.println("change");
+        System.out.println("more blah!");
+    }
+
+    public void jump() {
+        System.out.println("I am jumping!!");
     }
 }
