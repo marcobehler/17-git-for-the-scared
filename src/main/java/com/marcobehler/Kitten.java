@@ -7,6 +7,6 @@ public class Kitten {
 
     public void blah() {
         System.out.println("blah!");
-        System.out.println("more blah!");
+        System.out.println("change to something useful");
     }
 }
