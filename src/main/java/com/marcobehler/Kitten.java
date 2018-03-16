@@ -6,7 +6,8 @@ package com.marcobehler;
 public class Kitten {
 
     public void eat() {
-        System.out.println("blah!");        
+        System.out.println("i am eating!");
+        System.out.println("change");
     }
 	
 	public void jump() {
