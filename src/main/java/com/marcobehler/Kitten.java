@@ -9,8 +9,4 @@ public class Kitten {
         System.out.println("eat!");
         System.out.println("change");
     }
-
-    public void jump() {
-        System.out.println("Jumppping");
-    }
 }
