@@ -12,7 +12,7 @@ public class Kitten {
     }
 
     public void blah() {
-        System.out.println("blah!");
+        System.out.println("eat!");
         System.out.println("change");
     }
 
