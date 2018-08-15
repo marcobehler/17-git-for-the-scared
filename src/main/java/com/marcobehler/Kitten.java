@@ -25,4 +25,8 @@ public class Kitten {
         System.out.println("hopping on your keyboard..");
     }
 
+    public static void main(String[] args) {
+        System.out.println("this is a bugfix");
+    }
+
 }
