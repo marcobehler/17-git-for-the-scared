@@ -7,10 +7,6 @@ import org.apache.commons.lang.RandomStringUtils;
  */
 public class Kitten {
 
-    public void thisItIt() {
-      System.out.println("testme");
-    }
-
     public void snuggle() {
         System.out.println("i want to snuggle with you...");
     }
@@ -19,9 +15,6 @@ public class Kitten {
         System.out.println("Meeooooww" + RandomStringUtils.randomAlphabetic(20));
     }
 
-    public static void main(String[] args) {
-        System.out.println("yessss");
-    }
 
     public void blah() {
         System.out.println("blah!");
