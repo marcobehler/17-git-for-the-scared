@@ -15,6 +15,9 @@ public class Kitten {
         System.out.println("Meeooooww" + RandomStringUtils.randomAlphabetic(20));
     }
 
+    public void freakOut() {
+        System.out.println("i am freaking out right now!!!");
+    }
 
     public void blah() {
         System.out.println("blah!");
