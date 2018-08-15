@@ -20,10 +20,6 @@ public class Kitten {
         System.out.println("Meeooooww" + RandomStringUtils.randomAlphabetic(20));
     }
 
-    public static void main(String[] args) {
-        System.out.println("Yessss");
-    }
-
     public void blah() {
         System.out.println("blah!");
         System.out.println("even more blah!");
