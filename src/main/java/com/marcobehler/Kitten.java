@@ -7,6 +7,9 @@ import org.apache.commons.lang.RandomStringUtils;
  */
 public class Kitten {
 
+    public void thisItIt() {
+      System.out.println("testme");
+    }
 
     public void snuggle() {
         System.out.println("i want to snuggle with you...");
