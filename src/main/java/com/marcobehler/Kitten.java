@@ -17,6 +17,11 @@ public class Kitten {
         System.out.println("Meeooooww" + RandomStringUtils.randomAlphabetic(20));
     }
 
+public void test() {
+	System.out.println("This is some test....");
+}
+
+
     public void joho() {
         File v = new File("jo");
         System.out.println(v);
