@@ -7,6 +7,11 @@ import org.apache.commons.lang.RandomStringUtils;
  */
 public class Kitten {
 
+	public boolean doIt() {
+			return false;
+	}
+
+
     public void snuggle() {
         System.out.println("i want to snuggle with you...");
     }
@@ -23,4 +28,10 @@ public class Kitten {
     public void hopOnKeyboard() {
         System.out.println("hopping on your keyboard..");
     }
+	
+	public static void main(String[] args) {
+	
+		System.out.println("Yessss");
+		
+	}
 }
