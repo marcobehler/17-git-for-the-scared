@@ -21,6 +21,10 @@ public class Kitten {
         System.out.println("even more blah!");
     }
 
+	public String jo() {
+return "yolandi";
+}	
+
     public void hopOnKeyboard() {
         System.out.println("hopping on your keyboard..");
     }
