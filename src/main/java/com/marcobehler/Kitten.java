@@ -19,6 +19,7 @@ public class Kitten {
         System.out.println("i am freaking out right now!!!");
     }
 
+    // this is a comment
 
     public void blah() {
         System.out.println("blah!");
