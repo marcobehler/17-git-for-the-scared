@@ -38,6 +38,10 @@ public class Kitten {
         System.out.println("todo");
     }
 
+    public void feature3() {
+        System.out.println("todo ");
+    }
+
     public void bugfix(String todo) {
         System.out.println("todo");
     }
