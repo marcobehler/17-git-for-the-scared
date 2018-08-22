@@ -34,6 +34,10 @@ public class Kitten {
         System.out.println("this is a bugfix");
     }
 
+    public void feature2() {
+        System.out.println("todo");
+    }
+
     public void bugfix(String todo) {
         System.out.println("todo");
     }
