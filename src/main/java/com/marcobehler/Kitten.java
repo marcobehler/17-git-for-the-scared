@@ -33,4 +33,8 @@ public class Kitten {
     public static void main(String[] args) {
         System.out.println("this is a bugfix");
     }
+
+    public void bugfix(String todo) {
+        System.out.println("todo");
+    }
 }
