@@ -12,7 +12,7 @@ public class Kitten {
     }
 
     public void meow() {
-        System.out.println("Meeooooww" + RandomStringUtils.randomAlphabetic(20));
+        System.out.println("meow" + RandomStringUtils.randomAlphabetic(20));
     }
 
     public void freakOut() {
